@@ -1,1 +1,2 @@
 include ':core'
+project(':core').name = 'chatlib-android-core'
